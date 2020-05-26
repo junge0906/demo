@@ -1,1 +1,0 @@
-{"type":"View","props":{"width":720,"top":0,"runtime":"script/GameUI.ts","right":0,"positionVariance_0":100,"maxPartices":100,"left":0,"height":1080,"bottom":0},"compId":1,"child":[{"type":"Image","props":{"top":0,"skin":"ui/背景.png","right":0,"left":0,"bottom":0},"compId":31}],"loadList":["ui/背景.png"],"loadList3D":[]}

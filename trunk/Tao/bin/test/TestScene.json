@@ -1,1 +1,0 @@
-{"type":"Scene","props":{"width":640,"runtime":"script/GameUI.ts","positionVariance_0":100,"maxPartices":100,"height":1136},"compId":1,"child":[{"type":"Button","props":{"var":"m_btn","skin":"comp/button.png","label":"label"},"compId":30}],"loadList":["comp/button.png"],"loadList3D":[]}
